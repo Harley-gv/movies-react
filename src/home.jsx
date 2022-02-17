@@ -1,4 +1,4 @@
-import { Listado } from "./listado";
+import { Listado } from "./components/listado";
 import styles from "./home.module.css";
 
 export function Home() {
